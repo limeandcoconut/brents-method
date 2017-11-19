@@ -1,0 +1,21 @@
+{
+  "name": "brents-method",
+  "version": "1.0.0",
+  "description": "A root solver for functions using Brent's Method.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/limeandcoconut/brents-method"
+  },
+  "keywords": [
+    "brent",
+    "brents method",
+    "root",
+    "solver"
+  ],
+  "author": "limeandcoconut",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
