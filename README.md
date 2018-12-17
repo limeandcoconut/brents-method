@@ -4,9 +4,9 @@ A root solver for functions using Brent's Method. Based on the work of Borgar [T
 
 ## Example
 ```js
-const BrentMethod = require('brents-method')
+const brentMethod = require('brents-method')
 
-BrentsMethod({
+brentsMethod({
     func: (x) => (x + 3) * Math.pow(x - 1, 2),
     lowerLimit: -4,
     upperLimit: 4 / 3,
