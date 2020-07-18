@@ -14,8 +14,14 @@
     "root",
     "solver"
   ],
-  "author": "limeandcoconut",
-  "license": "MIT",
+  "author": "Jacob Smith <js@jacobsmith.tech>",
+  "license": "ISC",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-limeandcoconut": "^1.3.0",
+    "eslint-plugin-html": "^6.0.2",
+    "eslint-plugin-unicorn": "^20.1.0",
+    "eslint-plugin-vue": "^6.2.2"
+  }
 }
