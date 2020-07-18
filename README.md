@@ -16,25 +16,27 @@ brentsMethod({
 ## Testing
 Coming soon.
 
-## Feedback ✉️
-
-[messagethesmith@gmail.com](messagethesmith@gmail.com)
-
-[https://github.com/limeandcoconut](https://github.com/limeandcoconut)
-
-[@limeandcoconut](https://twitter.com/limeandcoconut)
-
-Cheers!
-
 ## TODO:
 
 - [ ] Tests
 - [ ] More thorough description than a wiki link
 - [ ] Usage stats
 
-## Usage Stats
-Coming soon.
+
+## Feedback ✉️
+
+[Website 🌐](https://jacobsmith.tech)
+
+[js@jacobsmith.tech](mailto:js@jacobsmith.tech)
+
+[https://github.com/limeandcoconut](https://github.com/limeandcoconut)
+
+[@limeandcoconut 🐦](https://twitter.com/limeandcoconut)
+
+Cheers!
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/limeandcoconut/brents-method/blob/master/LICENSE.md) for details.
+ISC, see [license](./license) for details.
+
+
