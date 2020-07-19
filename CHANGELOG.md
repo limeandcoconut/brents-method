@@ -9,10 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Changed the [license](./LICENSE.md)
+- Changed the [license](./LICENSE.md).
+- Completely rewrote the implementation. This should provide much more robust functionality (and I have a higher degree of confidence in it's accuracy).
+- Updated the readme
 - Changed to local eslint and updated config.
+- Added a few things to the .gitignore
 
 ### Added
 
 - This changelog
+- Tests!
 
