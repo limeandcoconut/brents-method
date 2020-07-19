@@ -60,9 +60,9 @@ If you have suggestions for particularly trying functions, or better tests, plea
 
 [Website 🌐](https://jacobsmith.tech)
 
-[js@jacobsmith.tech](mailto:js@jacobsmith.tech)
+[js@jacobsmith.tech 📧](mailto:js@jacobsmith.tech)
 
-[https://github.com/limeandcoconut](https://github.com/limeandcoconut) 🐙😸
+[https://github.com/limeandcoconut 🐙😸](https://github.com/limeandcoconut)
 
 [@limeandcoconut 🐦](https://twitter.com/limeandcoconut)
 
