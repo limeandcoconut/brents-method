@@ -1,6 +1,6 @@
 {
   "name": "brents-method",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A root solver for functions using Brent's Method.",
   "main": "index.js",
   "scripts": {
