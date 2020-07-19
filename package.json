@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A root solver for functions using Brent's Method.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "github.com/limeandcoconut/brents-method"
@@ -16,12 +18,25 @@
   ],
   "author": "Jacob Smith <js@jacobsmith.tech>",
   "license": "ISC",
+  "jest": {
+    "reporters": [
+      [
+        "jest-nyancat-reporter",
+        {
+          "suppressErrorReporter": false
+        }
+      ]
+    ]
+  },
   "dependencies": {},
   "devDependencies": {
     "eslint": "^7.4.0",
     "eslint-config-limeandcoconut": "^1.3.0",
     "eslint-plugin-html": "^6.0.2",
     "eslint-plugin-unicorn": "^20.1.0",
-    "eslint-plugin-vue": "^6.2.2"
+    "eslint-plugin-vue": "^6.2.2",
+    "jest": "^26.1.0",
+    "jest-nyancat-reporter": "^2.0.0",
+    "chai": "^4.2.0"
   }
 }
